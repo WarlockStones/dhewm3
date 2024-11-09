@@ -1,4 +1,9 @@
-# ABOUT
+# ABOUT invoker-mod
+A full conversion mod based on the dhewm 3 source port.
+
+Special thanks to blendogames and the doom3/idTech4 community!
+
+# ABOUT dhewm 3
 
 _dhewm 3_ is a _Doom 3_ GPL source port, known to work on at least Windows, Linux, macOS and FreeBSD.
 
